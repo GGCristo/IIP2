@@ -13,3 +13,9 @@
   - La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.
     
     ![imagen](https://user-images.githubusercontent.com/58046649/138602660-3c8001c3-3744-44f1-95d9-4f0b5fd24e7b.png)
+
+- Sobre la escena que has trabajado ubica un cubo que reprente un personaje que vas a mover. Se debe implementar un script que haga de CharacterController. Cuando el jugador pulse las teclas de flecha (o aswd) el jugador se moverá en la dirección qu estos ejes indican.
+  - Crear un script para el personaje que lo desplace por la pantalla, sin aplicar simulación física.
+  - Agregar un campo público que permita graduar la velocidad del movimiento desde el inspector de objetos.
+  - Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuáles se va a permitir utilizar: flechas, awsd
+  ![Animation6](https://user-images.githubusercontent.com/58046649/138610835-85965b0c-7524-44c5-961e-ec941bd41bdb.gif)
