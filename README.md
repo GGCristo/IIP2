@@ -11,5 +11,5 @@
   - La esfera tiene físicas y el cubo es de tipo IsTrigger y tiene físicas
   ![Animation5](https://user-images.githubusercontent.com/58046649/138595881-dc91c440-64b5-444e-89c3-2595acfff804.gif)
   - La esfera y el cubo son físicos y la esfera tiene 10 veces la masa del cubo, se impide la rotación del cubo sobre el plano XZ.
-
-   
+    
+    ![imagen](https://user-images.githubusercontent.com/58046649/138602660-3c8001c3-3744-44f1-95d9-4f0b5fd24e7b.png)
