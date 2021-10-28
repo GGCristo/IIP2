@@ -19,3 +19,20 @@
   - Agregar un campo público que permita graduar la velocidad del movimiento desde el inspector de objetos.
   - Estar a la escucha de si el usuario ha utilizado los ejes virtuales. Elegir cuáles se va a permitir utilizar: flechas, awsd
   ![Animation6](https://user-images.githubusercontent.com/58046649/138610835-85965b0c-7524-44c5-961e-ec941bd41bdb.gif)
+  
+---
+3.
+- Se deben incluir varios cilindros sobre la escena. Cada vez que el obheto jugador colisione con alguno de ellos, deben aumentar su tamaño y el jugador aumentar puntuación
+![3 1](https://user-images.githubusercontent.com/58046649/139345230-f13d6322-84e3-4516-92fe-6cc6af29de2a.gif)
+
+- Agregar cilindros de tipo A, en los que además, si el jugador pulsa la barra espaciadora lo mueve hacia fuera de él
+![3 2](https://user-images.githubusercontent.com/58046649/139345584-00d5edf3-2ffe-423d-a0e7-5f0543b12070.gif)
+
+- Se deben incluir cilindros que se alejen del jugador cuando esté próximo.
+![3 3](https://user-images.githubusercontent.com/58046649/139345761-675eea65-1272-4aab-9a76-25a88a9314c1.gif)
+
+- Ubicar un tercer objeto que sea capaz de detectar colisiones y que se mueva con las teclas: I, L, J, M
+![3 4](https://user-images.githubusercontent.com/58046649/139346255-fbdbf7ab-a9ca-4127-971f-0e19f7d851d3.gif)
+
+- Debes ubicar cubos que aumenten de tamaño cuando se le acerca una esfera y que disminuye cuando se le acerca el jugador
+![3 5](https://user-images.githubusercontent.com/58046649/139345985-ed4f5bca-7aaf-4746-ab67-69ff1e1dd57f.gif)
